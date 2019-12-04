@@ -1,2 +1,2 @@
 # ClimateChange
-[Climate Belief](http://htmlpreview.github.com/ClimateFlowBelief.html)
+[Climate Belief](http://htmlpreview.github.com/?https://github.com/animatedb/ClimateChange/ClimateFlowBelief.html)
