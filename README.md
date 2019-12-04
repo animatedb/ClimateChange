@@ -1,2 +1,2 @@
 # ClimateChange
-(ClimateFlowBelief.html)[Climate Belief]
+[Climate Belief](ClimateFlowBelief.html)
