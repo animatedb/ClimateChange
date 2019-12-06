@@ -538,6 +538,126 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8-9-7-5-36"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path887-57-6-6-9-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-1-3-30-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path887-5-0-9-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8-9-7-5-36-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path887-57-6-6-9-7-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-1-3-30-5-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path887-5-0-9-3-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8241-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8239-6" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8-9-75"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path887-57-6-35"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8-9-5-36"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path887-57-6-4-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-1-3-3-2-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path887-5-0-8-2-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -547,15 +667,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="483.24187"
+     inkscape:cx="459.2187"
      inkscape:cy="607.85775"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1174"
-     inkscape:window-height="1090"
-     inkscape:window-x="236"
-     inkscape:window-y="48"
+     inkscape:window-height="1075"
+     inkscape:window-x="680"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:pagecheckerboard="false"
@@ -585,28 +705,343 @@
        style="fill:#f0fff0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1286"
        width="201.08333"
-       height="248.70833"
+       height="285.75"
        x="5.2916718"
-       y="5.9583335" />
+       y="5.958334" />
     <rect
        style="display:inline;fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1283-1-3"
        width="10.583333"
        height="10.583333"
-       x="142.875"
-       y="90.625"
+       x="153.45834"
+       y="170"
        onclick="window.location='ClimateFlowBelief.html#IncreasingCO2NotOk';" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="145.52083"
-       y="97.428574"
+       x="156.10417"
+       y="176.80356"
        id="text1287-27-6"
        onclick="window.location='ClimateFlowBelief.html#IncreasingCO2NotOk';"><tspan
          sodipodi:role="line"
          id="tspan1285-0-7"
-         x="145.52083"
-         y="97.428574"
+         x="156.10417"
+         y="176.80356"
+         style="stroke-width:0.26458332px">Go</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3715-8-9-56"
+       width="47.625004"
+       height="15.874998"
+       x="127"
+       y="37.708332" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="131.91367"
+       y="42.622021"
+       id="text3719-4-6-2"><tspan
+         sodipodi:role="line"
+         x="131.91367"
+         y="42.622021"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1557">Humans can cause</tspan><tspan
+         sodipodi:role="line"
+         x="131.91367"
+         y="47.472713"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1561">climate change</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="177.64876"
+       y="42.622028"
+       id="text1220-1-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan1218-7-5-7"
+         x="177.64876"
+         y="42.622028"
+         style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-30-5)"
+       d="m 174.62495,48.291674 h 10.58334"
+       id="path77-9-5-40-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-7-5-36)"
+       d="m 148.16664,53.583338 v 10.58334"
+       id="path77-4-4-4-4-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="153.4583"
+       y="58.875011"
+       id="text1659-1-3-3-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan1657-8-3-0-9-6"
+         x="153.4583"
+         y="58.875011"
+         style="font-size:3.88055563px;stroke-width:0.26458332px">Possibly</tspan></text>
+    <rect
+       style="display:inline;fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1283-06"
+       width="10.583333"
+       height="10.583333"
+       x="185.20831"
+       y="43"
+       onclick="window.location='ClimateFlowBelief.html#HumansCanCause';" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="187.85414"
+       y="49.80357"
+       id="text1287-26"
+       onclick="window.location='ClimateFlowBelief.html#HumansCanCause';"><tspan
+         sodipodi:role="line"
+         id="tspan1285-1"
+         x="187.85414"
+         y="49.80357"
+         style="stroke-width:0.26458332px">Go</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3715-8-9-56-0"
+       width="47.625004"
+       height="15.874998"
+       x="127"
+       y="11.25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="128.88988"
+       y="16.163681"
+       id="text3719-4-6-2-2"><tspan
+         sodipodi:role="line"
+         x="128.88988"
+         y="16.163681"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1557-3">Humans can</tspan><tspan
+         sodipodi:role="line"
+         x="128.88988"
+         y="21.014376"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1998">understand and predict</tspan><tspan
+         sodipodi:role="line"
+         x="128.88988"
+         y="25.86507"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1561-7">climate change</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="177.64879"
+       y="16.163689"
+       id="text1220-1-2-2-5"><tspan
+         sodipodi:role="line"
+         id="tspan1218-7-5-7-9"
+         x="177.64879"
+         y="16.163689"
+         style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-30-5-9)"
+       d="m 174.62498,21.833336 h 10.58334"
+       id="path77-9-5-40-0-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-7-5-36-8)"
+       d="M 148.16667,27.125 V 37.70834"
+       id="path77-4-4-4-4-9-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="153.45833"
+       y="32.416672"
+       id="text1659-1-3-3-6-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan1657-8-3-0-9-6-9"
+         x="153.45833"
+         y="32.416672"
+         style="font-size:3.88055563px;stroke-width:0.26458332px">Yes</tspan></text>
+    <rect
+       style="display:inline;fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1283-06-7"
+       width="10.583333"
+       height="10.583333"
+       x="185.20834"
+       y="16.54166"
+       onclick="window.location='ClimateFlowBelief.html#HumansCannotUnderstand';" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="187.85417"
+       y="23.34523"
+       id="text1287-26-3"
+       onclick="window.location='ClimateFlowBelief.html#HumansCannotUnderstand';"><tspan
+         sodipodi:role="line"
+         id="tspan1285-1-6"
+         x="187.85417"
+         y="23.34523"
+         style="stroke-width:0.26458332px">Go</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3715-5-5-6"
+       width="42.333332"
+       height="15.875001"
+       x="10.583333"
+       y="90.625" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15.874996"
+       y="95.538689"
+       id="text3719-0-9-2"><tspan
+         sodipodi:role="line"
+         x="15.874996"
+         y="95.538689"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan2349-7">Fixes are too</tspan><tspan
+         sodipodi:role="line"
+         x="15.874996"
+         y="100.38938"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1646">expensive or</tspan><tspan
+         sodipodi:role="line"
+         x="15.874996"
+         y="105.24007"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1388">impossible</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-75)"
+       d="m 31.749999,106.5 v 10.58334"
+       id="path77-4-4-09"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="37.04166"
+       y="111.79167"
+       id="text1659-1-3-36"><tspan
+         sodipodi:role="line"
+         id="tspan1657-8-3-06"
+         x="37.04166"
+         y="111.79167"
+         style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="55.562504"
+       y="108.0119"
+       id="text1220-1-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan1218-7-0-6"
+         x="55.562504"
+         y="108.0119"
+         style="font-size:3.88055563px;stroke-width:0.26458332px">Yes</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8241-3)"
+       d="M 52.916664,101.20833 H 63.5"
+       id="path77-9-5-4-1"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="display:inline;fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1283-92-8"
+       width="10.583333"
+       height="10.583333"
+       x="63.499996"
+       y="95.916672"
+       onclick="window.location='ClimateFlowBelief.html#FixesAreExpensive';" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="66.145828"
+       y="102.72025"
+       id="text1287-0-7"
+       onclick="window.location='ClimateFlowBelief.html#FixesAreExpensive';"><tspan
+         sodipodi:role="line"
+         id="tspan1285-23-9"
+         x="66.145828"
+         y="102.72025"
+         style="stroke-width:0.26458332px">Go</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3715-4-5"
+       width="47.624989"
+       height="15.874998"
+       x="127.00001"
+       y="90.624992" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="131.91364"
+       y="95.538681"
+       id="text3719-44-6"><tspan
+         sodipodi:role="line"
+         x="131.91364"
+         y="95.538681"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan11-63-2">Temperatures are</tspan><tspan
+         sodipodi:role="line"
+         x="131.91364"
+         y="100.38937"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1676">rising but not from</tspan><tspan
+         sodipodi:role="line"
+         x="131.91364"
+         y="105.24007"
+         style="font-size:3.88055563px;stroke-width:0.26458332px"
+         id="tspan1387">humans</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="177.6488"
+       y="95.538689"
+       id="text1220-1-6-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan1218-7-0-7-1"
+         x="177.6488"
+         y="95.538689"
+         style="font-size:3.88055563px;stroke-width:0.26458332px">Yes</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-3-2-5)"
+       d="m 174.62502,101.20833 h 10.58333"
+       id="path77-9-5-4-7-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-5-36)"
+       d="m 148.16667,106.5 v 10.58333"
+       id="path77-4-4-8-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="153.45831"
+       y="111.79167"
+       id="text1659-1-3-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan1657-8-3-2-93"
+         x="153.45831"
+         y="111.79167"
+         style="font-size:3.88055563px;stroke-width:0.26458332px">Possibly</tspan></text>
+    <rect
+       style="display:inline;fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1283-6-6"
+       width="10.583333"
+       height="10.583333"
+       x="185.20831"
+       y="95.916664"
+       onclick="window.location='ClimateFlowBelief.html#CO2Measurements';" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="187.85414"
+       y="102.72025"
+       id="text1287-2-0"
+       onclick="window.location='ClimateFlowBelief.html#CO2Measurements';"><tspan
+         sodipodi:role="line"
+         id="tspan1285-9-6"
+         x="187.85414"
+         y="102.72025"
          style="stroke-width:0.26458332px">Go</tspan></text>
   </g>
   <g
@@ -703,16 +1138,16 @@
        width="47.624989"
        height="15.874998"
        x="127.00001"
-       y="37.708332" />
+       y="117.08332" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="132.29163"
-       y="43.377972"
+       x="132.29161"
+       y="122.75296"
        id="text3719-44"><tspan
          sodipodi:role="line"
-         x="132.29163"
-         y="43.377972"
+         x="132.29161"
+         y="122.75296"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan11-63">CO2 is rising</tspan></text>
     <text
@@ -736,22 +1171,22 @@
        id="rect3715-8-9"
        width="47.625004"
        height="15.874998"
-       x="127.00001"
-       y="11.25" />
+       x="126.99997"
+       y="64.166672" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="132.29167"
-       y="16.91964"
+       x="132.29163"
+       y="69.836311"
        id="text3719-4-6"><tspan
          sodipodi:role="line"
-         x="132.29167"
-         y="16.91964"
+         x="132.29163"
+         y="69.836311"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan11-0-2">Temperatures are</tspan><tspan
          sodipodi:role="line"
-         x="132.29167"
-         y="21.770334"
+         x="132.29163"
+         y="74.687004"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan1979-7">are rising</tspan></text>
     <path
@@ -776,26 +1211,26 @@
        width="42.333332"
        height="15.875001"
        x="10.583335"
-       y="90.624992" />
+       y="117.08333" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="15.874997"
-       y="95.538681"
+       y="121.99702"
        id="text3719-0-9"><tspan
          sodipodi:role="line"
          x="15.874997"
-         y="95.538681"
+         y="121.99702"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan41-3">Only corporations</tspan><tspan
          sodipodi:role="line"
          x="15.874997"
-         y="100.38937"
+         y="126.84771"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2347">have an impact on</tspan><tspan
          sodipodi:role="line"
          x="15.874997"
-         y="105.24007"
+         y="131.69839"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2349">climate change</tspan></text>
     <rect
@@ -804,58 +1239,58 @@
        width="42.333332"
        height="15.875001"
        x="10.583335"
-       y="117.08332" />
+       y="143.54166" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="15.874997"
-       y="121.99702"
+       y="148.45535"
        id="text3719-0-9-8"><tspan
          sodipodi:role="line"
          x="15.874997"
-         y="121.99702"
+         y="148.45535"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2347-1">I can have an</tspan><tspan
          sodipodi:role="line"
          x="15.874997"
-         y="126.84771"
+         y="153.30605"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2380">impact on fixing</tspan><tspan
          sodipodi:role="line"
          x="15.874997"
-         y="131.69841"
+         y="158.15674"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2349-8">climate change</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9)"
-       d="m 31.75,106.5 v 10.58334"
+       d="m 31.75,132.95833 v 10.58334"
        id="path77-4-4"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="37.041664"
-       y="111.79167"
+       y="138.25"
        id="text1659-1-3"><tspan
          sodipodi:role="line"
          id="tspan1657-8-3"
          x="37.041664"
-         y="111.79167"
+         y="138.25"
          style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="55.562504"
-       y="108.0119"
+       y="134.47023"
        id="text1220-1-6"><tspan
          sodipodi:role="line"
          id="tspan1218-7-0"
          x="55.562504"
-         y="108.0119"
+         y="134.47023"
          style="font-size:3.88055563px;stroke-width:0.26458332px">Yes</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8241)"
-       d="M 52.916666,101.20833 H 63.5"
+       d="M 52.916666,127.66666 H 63.5"
        id="path77-9-5-4"
        inkscape:connector-curvature="0" />
     <rect
@@ -864,144 +1299,144 @@
        width="42.333332"
        height="15.875001"
        x="10.583335"
-       y="143.54167" />
+       y="170" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="15.874998"
-       y="148.45537"
+       y="174.9137"
        id="text3719-0-9-8-8"><tspan
          sodipodi:role="line"
          x="15.874998"
-         y="148.45537"
+         y="174.9137"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2380-9">I am doing what I</tspan><tspan
          sodipodi:role="line"
          x="15.874998"
-         y="153.30606"
+         y="179.76439"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2847">can to help reduce</tspan><tspan
          sodipodi:role="line"
          x="15.874998"
-         y="158.15675"
+         y="184.61508"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2349-8-7">climate change</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-7)"
-       d="m 31.75,132.95834 v 10.58334"
+       d="m 31.75,159.41667 v 10.58334"
        id="path77-4-4-4"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="37.041664"
-       y="138.25002"
+       y="164.70834"
        id="text1659-1-3-3"><tspan
          sodipodi:role="line"
          id="tspan1657-8-3-0"
          x="37.041664"
-         y="138.25002"
+         y="164.70834"
          style="font-size:3.88055563px;stroke-width:0.26458332px">Yes</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="177.64879"
-       y="16.163696"
+       x="177.64874"
+       y="69.080368"
        id="text1220-1-2"><tspan
          sodipodi:role="line"
          id="tspan1218-7-5"
-         x="177.64879"
-         y="16.163696"
+         x="177.64874"
+         y="69.080368"
          style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-30)"
-       d="m 174.62497,21.833339 h 10.58334"
+       d="m 174.62493,74.75001 h 10.58334"
        id="path77-9-5-40"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-7-5)"
-       d="m 148.16666,27.125003 v 10.58334"
+       d="m 148.16662,80.041674 v 10.58334"
        id="path77-4-4-4-4"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="177.64882"
-       y="42.622025"
+       x="177.6488"
+       y="121.99702"
        id="text1220-1-6-4"><tspan
          sodipodi:role="line"
          id="tspan1218-7-0-7"
-         x="177.64882"
-         y="42.622025"
+         x="177.6488"
+         y="121.99702"
          style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-3-2)"
-       d="m 174.62502,48.291665 h 10.58333"
+       d="m 174.62502,127.66666 h 10.58333"
        id="path77-9-5-4-7"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-5)"
-       d="M 148.16667,53.583334 V 64.166667"
+       d="m 148.16667,132.95833 v 10.58333"
        id="path77-4-4-8"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="153.45833"
-       y="58.875"
+       x="153.45831"
+       y="138.25"
        id="text1659-1-3-1"><tspan
          sodipodi:role="line"
          id="tspan1657-8-3-2"
-         x="153.45833"
-         y="58.875"
+         x="153.45831"
+         y="138.25"
          style="font-size:3.88055563px;stroke-width:0.26458332px">Possibly</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="55.940483"
-       y="121.99702"
+       y="148.45535"
        id="text1220-1-68"><tspan
          sodipodi:role="line"
          id="tspan1218-7-02"
          x="55.940483"
-         y="121.99702"
+         y="148.45535"
          style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-8)"
-       d="M 52.916667,127.66667 H 63.499996"
+       d="M 52.916667,154.125 H 63.499996"
        id="path77-9-5-1"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="55.940487"
-       y="148.45537"
+       y="174.9137"
        id="text1220-1-68-1"><tspan
          sodipodi:role="line"
          id="tspan1218-7-02-1"
          x="55.940487"
-         y="148.45537"
+         y="174.9137"
          style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-8-0)"
-       d="M 52.91667,154.12501 H 63.5"
+       d="M 52.91667,180.58334 H 63.5"
        id="path77-9-5-1-0"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-7-8)"
-       d="m 31.75,159.41667 v 10.58334"
+       d="m 31.75,185.875 v 10.58334"
        id="path77-4-4-4-0"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="37.041664"
-       y="164.70834"
+       y="191.16667"
        id="text1659-1-3-3-64"><tspan
          sodipodi:role="line"
          id="tspan1657-8-3-0-6"
          x="37.041664"
-         y="164.70834"
+         y="191.16667"
          style="font-size:3.88055563px;stroke-width:0.26458332px">Yes</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1009,49 +1444,49 @@
        width="42.333332"
        height="15.875001"
        x="10.583336"
-       y="170.00002" />
+       y="196.45834" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="15.874998"
-       y="174.91371"
+       y="201.37204"
        id="text3719-0-9-8-8-8"><tspan
          sodipodi:role="line"
          x="15.874998"
-         y="174.91371"
+         y="201.37204"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan2349-8-7-2">Are you sure?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="55.940491"
-       y="174.91371"
+       y="201.37204"
        id="text1220-1-68-1-4"><tspan
          sodipodi:role="line"
          id="tspan1218-7-02-1-0"
          x="55.940491"
-         y="174.91371"
+         y="201.37204"
          style="font-size:3.88055563px;stroke-width:0.26458332px">No</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-8-0-8)"
-       d="M 52.916676,180.58335 H 84.666669"
+       d="M 52.916674,207.04168 H 84.666667"
        id="path77-9-5-1-0-6"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-7-8-2)"
-       d="m 31.75,185.87501 v 10.58334"
+       d="m 31.75,212.33334 v 10.58334"
        id="path77-4-4-4-0-2"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="37.041664"
-       y="191.16669"
+       y="217.62502"
        id="text1659-1-3-3-64-9"><tspan
          sodipodi:role="line"
          id="tspan1657-8-3-0-6-9"
          x="37.041664"
-         y="191.16669"
+         y="217.62502"
          style="font-size:3.88055563px;stroke-width:0.26458332px">Yes</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1162,55 +1597,55 @@
        id="rect3715-4-0"
        width="47.624989"
        height="15.874998"
-       x="126.99999"
-       y="64.166664" />
+       x="126.99998"
+       y="143.54167" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="132.29161"
-       y="69.836304"
+       x="132.2916"
+       y="149.2113"
        id="text3719-44-9"><tspan
          sodipodi:role="line"
-         x="132.29161"
-         y="69.836304"
+         x="132.2916"
+         y="149.2113"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan11-63-9">Increasing CO2</tspan><tspan
          sodipodi:role="line"
-         x="132.29161"
-         y="74.686996"
+         x="132.2916"
+         y="154.062"
          style="font-size:3.88055563px;stroke-width:0.26458332px"
          id="tspan9923">is ok</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-1-3-3-2-0)"
-       d="m 174.62502,74.75 h 10.58332"
+       d="m 174.62502,154.12499 h 10.58332"
        id="path77-9-5-4-7-5"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-9-5-3)"
-       d="M 148.16667,80.041664 V 90.625"
+       d="M 158.75,159.41667 V 170"
        id="path77-4-4-8-4"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="153.45831"
-       y="85.333344"
+       x="164.04163"
+       y="164.70834"
        id="text1659-1-3-1-4"><tspan
          sodipodi:role="line"
          id="tspan1657-8-3-2-9"
-         x="153.45831"
-         y="85.333344"
+         x="164.04163"
+         y="164.70834"
          style="font-size:3.88055563px;stroke-width:0.26458332px">Possibly</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="177.6488"
-       y="69.08036"
+       x="177.64879"
+       y="148.45535"
        id="text1220-1-6-4-6"><tspan
          sodipodi:role="line"
          id="tspan1218-7-0-7-2"
-         x="177.6488"
-         y="69.08036"
+         x="177.64879"
+         y="148.45535"
          style="font-size:3.88055563px;stroke-width:0.26458332px">Yes</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1218,173 +1653,173 @@
        width="63.499996"
        height="121.70834"
        x="84.666664"
-       y="117.08334" />
+       y="164.70833" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="89.958336"
-       y="122.37498"
+       y="169.99997"
        id="text10271"><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="122.37498"
+         y="169.99997"
          style="stroke-width:0.26458332px"
          id="tspan10315">Travel</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="127.22567"
+         y="174.85066"
          style="stroke-width:0.26458332px"
          id="tspan1581"> - Walk</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="132.07637"
+         y="179.70135"
          style="stroke-width:0.26458332px"
          id="tspan1583"> - Bike</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="136.92706"
+         y="184.55205"
          style="stroke-width:0.26458332px"
          id="tspan1585"> - Electric car</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="141.77776"
+         y="189.40274"
          style="stroke-width:0.26458332px"
          id="tspan1587">Food</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="146.62845"
+         y="194.25345"
          style="stroke-width:0.26458332px"
          id="tspan1589"> - Vegetables / fruit</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="151.47914"
+         y="199.10414"
          style="stroke-width:0.26458332px"
          id="tspan1591"> - Eggs / Milk</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="156.32983"
+         y="203.95483"
          style="stroke-width:0.26458332px"
          id="tspan1593"> - Chicken</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="161.18053"
+         y="208.80553"
          style="stroke-width:0.26458332px"
          id="tspan1595"> - Beef</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="166.03123"
+         y="213.65622"
          style="stroke-width:0.26458332px"
          id="tspan1597">Housing</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="170.88193"
+         y="218.50691"
          style="stroke-width:0.26458332px"
          id="tspan1599"> - Insulation</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="175.73262"
+         y="223.3576"
          style="stroke-width:0.26458332px"
          id="tspan1601"> - Smaller / shared</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="180.58331"
+         y="228.2083"
          style="stroke-width:0.26458332px"
          id="tspan1603"> - Renewable energy</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="185.43401"
+         y="233.05901"
          style="stroke-width:0.26458332px"
          id="tspan1605"> - Short showers</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="190.2847"
+         y="237.9097"
          style="stroke-width:0.26458332px"
          id="tspan1607"> - Minimal heating / cooling</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="195.13539"
+         y="242.76039"
          style="stroke-width:0.26458332px"
          id="tspan1266"> - Live close to destinations</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="199.98608"
+         y="247.61108"
          style="stroke-width:0.26458332px"
          id="tspan1609">Clothes / electronics / leisure</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="204.83678"
+         y="252.46178"
          style="stroke-width:0.26458332px"
          id="tspan1611"> - Fewer</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="209.68748"
+         y="257.31247"
          style="stroke-width:0.26458332px"
          id="tspan1613"> - Reuse</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="214.53818"
+         y="262.16318"
          style="stroke-width:0.26458332px"
          id="tspan1617"> - Local</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="219.38887"
+         y="267.01385"
          style="stroke-width:0.26458332px"
          id="tspan1619"> - Minimal</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="224.23956"
+         y="271.86456"
          style="stroke-width:0.26458332px"
          id="tspan1621">Lobbying</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="229.09026"
+         y="276.71524"
          style="stroke-width:0.26458332px"
          id="tspan1623">Education</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="233.94095"
+         y="281.56595"
          style="stroke-width:0.26458332px"
          id="tspan1625">Job</tspan><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="238.79164"
+         y="286.41663"
          style="stroke-width:0.26458332px"
          id="tspan1627" /><tspan
          sodipodi:role="line"
          x="89.958336"
-         y="243.64233"
+         y="291.26733"
          style="stroke-width:0.26458332px"
          id="tspan10313" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="153.45833"
-       y="32.416676"
+       x="153.45828"
+       y="85.333344"
        id="text1659-1-3-3-6"><tspan
          sodipodi:role="line"
          id="tspan1657-8-3-0-9"
-         x="153.45833"
-         y="32.416676"
+         x="153.45828"
+         y="85.333344"
          style="font-size:3.88055563px;stroke-width:0.26458332px">Possibly</tspan></text>
     <rect
        style="fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1283"
        width="10.583333"
        height="10.583333"
-       x="185.20834"
-       y="16.541666"
+       x="185.2083"
+       y="69.458336"
        onclick="window.location='ClimateFlowBelief.html#TemperatureMeasurements';" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="187.85417"
-       y="23.345238"
+       x="187.85413"
+       y="76.261909"
        id="text1287"
        onclick="window.location='ClimateFlowBelief.html#TemperatureMeasurements';"><tspan
          sodipodi:role="line"
          id="tspan1285"
-         x="187.85417"
-         y="23.345238"
+         x="187.85413"
+         y="76.261909"
          style="stroke-width:0.26458332px">Go</tspan></text>
     <text
        xml:space="preserve"
@@ -1407,40 +1842,40 @@
        id="rect1283-6"
        width="10.583333"
        height="10.583333"
-       x="185.20833"
-       y="43"
+       x="185.20831"
+       y="122.37499"
        onclick="window.location='ClimateFlowBelief.html#CO2Measurements';" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="187.85416"
-       y="49.803574"
+       x="187.85414"
+       y="129.17857"
        id="text1287-2"
        onclick="window.location='ClimateFlowBelief.html#CO2Measurements';"><tspan
          sodipodi:role="line"
          id="tspan1285-9"
-         x="187.85416"
-         y="49.803574"
+         x="187.85414"
+         y="129.17857"
          style="stroke-width:0.26458332px">Go</tspan></text>
     <rect
        style="fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1283-1"
        width="10.583333"
        height="10.583333"
-       x="185.20834"
-       y="69.458328"
+       x="185.20833"
+       y="148.83333"
        onclick="window.location='ClimateFlowBelief.html#IncreasingCO2Ok';" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="187.85417"
-       y="76.261902"
+       x="187.85416"
+       y="155.6369"
        id="text1287-27"
        onclick="window.location='ClimateFlowBelief.html#IncreasingCO2Ok';"><tspan
          sodipodi:role="line"
          id="tspan1285-0"
-         x="187.85417"
-         y="76.261902"
+         x="187.85416"
+         y="155.6369"
          style="stroke-width:0.26458332px">Go</tspan></text>
     <rect
        style="fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1508,19 +1943,19 @@
        width="10.583333"
        height="10.583333"
        x="63.499996"
-       y="95.916664"
+       y="122.375"
        onclick="window.location='ClimateFlowBelief.html#OnlyCorporationsCanFix';" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="66.145828"
-       y="102.72024"
+       y="129.17857"
        id="text1287-0"
        onclick="window.location='ClimateFlowBelief.html#OnlyCorporationsCanFix';"><tspan
          sodipodi:role="line"
          id="tspan1285-23"
          x="66.145828"
-         y="102.72024"
+         y="129.17857"
          style="stroke-width:0.26458332px">Go</tspan></text>
     <rect
        style="fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1528,19 +1963,19 @@
        width="10.583333"
        height="10.583333"
        x="63.499996"
-       y="122.375"
+       y="148.83333"
        onclick="window.location='ClimateFlowBelief.html#IndividualsCanHelp';" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="66.145828"
-       y="129.17856"
+       y="155.63689"
        id="text1287-5"
        onclick="window.location='ClimateFlowBelief.html#IndividualsCanHelp';"><tspan
          sodipodi:role="line"
          id="tspan1285-92"
          x="66.145828"
-         y="129.17856"
+         y="155.63689"
          style="stroke-width:0.26458332px">Go</tspan></text>
     <rect
        style="fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1548,19 +1983,19 @@
        width="10.583333"
        height="10.583333"
        x="63.499996"
-       y="148.83333"
+       y="175.29166"
        onclick="window.location='ClimateFlowBelief.html#IAmHelping';" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="66.145828"
-       y="155.6369"
+       x="65.767853"
+       y="182.09523"
        id="text1287-89"
        onclick="window.location='ClimateFlowBelief.html#IAmHelping';"><tspan
          sodipodi:role="line"
          id="tspan1285-73"
-         x="66.145828"
-         y="155.6369"
+         x="65.767853"
+         y="182.09523"
          style="stroke-width:0.26458332px">Go</tspan></text>
     <rect
        style="fill:#e0e0e0;fill-opacity:1;stroke:#7b757b;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1568,19 +2003,19 @@
        width="10.583333"
        height="10.583333"
        x="26.458332"
-       y="196.45833"
+       y="222.91666"
        onclick="window.location='ClimateFlowBelief.html#IAmSure';" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="29.10416"
-       y="203.2619"
+       y="229.72023"
        id="text1287-9"
        onclick="window.location='ClimateFlowBelief.html#IAmSure';"><tspan
          sodipodi:role="line"
          id="tspan1285-3"
          x="29.10416"
-         y="203.2619"
+         y="229.72023"
          style="stroke-width:0.26458332px">Go</tspan></text>
   </g>
 </svg>
