@@ -1,3 +1,3 @@
 # ClimateChange
-[Climate Belief](https://animatedb.github.io/ClimateChange/)
+[Climate Change](https://animatedb.github.io/ClimateChange/)
 
