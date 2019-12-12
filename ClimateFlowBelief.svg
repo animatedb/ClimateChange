@@ -667,15 +667,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="468.25156"
+     inkscape:cx="384.87767"
      inkscape:cy="607.85775"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1174"
      inkscape:window-height="1075"
-     inkscape:window-x="109"
-     inkscape:window-y="31"
+     inkscape:window-x="561"
+     inkscape:window-y="32"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:pagecheckerboard="false"
@@ -715,14 +715,14 @@
        height="10.583333"
        x="153.45834"
        y="170"
-       onclick="window.location='ClimateFlowBelief.html#IncreasingCO2NotOk';" />
+       onclick="window.open('ClimateFlowBelief.html#IncreasingCO2NotOk');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="156.10417"
        y="176.80356"
        id="text1287-27-6"
-       onclick="window.location='ClimateFlowBelief.html#IncreasingCO2NotOk';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#IncreasingCO2NotOk');"><tspan
          sodipodi:role="line"
          id="tspan1285-0-7"
          x="156.10417"
@@ -790,14 +790,14 @@
        height="10.583333"
        x="185.20831"
        y="43"
-       onclick="window.location='ClimateFlowBelief.html#HumansCanCause';" />
+       onclick="window.open('ClimateFlowBelief.html#HumansCanCause');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="187.85414"
        y="49.80357"
        id="text1287-26"
-       onclick="window.location='ClimateFlowBelief.html#HumansCanCause';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#HumansCanCause');"><tspan
          sodipodi:role="line"
          id="tspan1285-1"
          x="187.85414"
@@ -870,14 +870,14 @@
        height="10.583333"
        x="185.20834"
        y="16.54166"
-       onclick="window.location='ClimateFlowBelief.html#HumansCannotUnderstand';" />
+       onclick="window.open('ClimateFlowBelief.html#HumansCannotUnderstand');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="187.85417"
        y="23.34523"
        id="text1287-26-3"
-       onclick="window.location='ClimateFlowBelief.html#HumansCannotUnderstand';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#HumansCannotUnderstand');"><tspan
          sodipodi:role="line"
          id="tspan1285-1-6"
          x="187.85417"
@@ -950,14 +950,14 @@
        height="10.583333"
        x="63.499996"
        y="95.916672"
-       onclick="window.location='ClimateFlowBelief.html#FixesAreExpensive';" />
+       onclick="window.open('ClimateFlowBelief.html#FixesAreExpensive');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="66.145828"
        y="102.72025"
        id="text1287-0-7"
-       onclick="window.location='ClimateFlowBelief.html#FixesAreExpensive';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#FixesAreExpensive');"><tspan
          sodipodi:role="line"
          id="tspan1285-23-9"
          x="66.145828"
@@ -1030,14 +1030,14 @@
        height="10.583333"
        x="185.20831"
        y="95.916664"
-       onclick="window.location='ClimateFlowBelief.html#TemperatureRiseIsNotFromHumans';" />
+       onclick="window.open('ClimateFlowBelief.html#TemperatureRiseIsNotFromHumans');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="187.85414"
        y="102.72025"
        id="text1287-2-0"
-       onclick="window.location='ClimateFlowBelief.html#TemperatureRiseIsNotFromHumans';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#TemperatureRiseIsNotFromHumans');"><tspan
          sodipodi:role="line"
          id="tspan1285-9-6"
          x="187.85414"
@@ -1808,14 +1808,14 @@
        height="10.583333"
        x="185.2083"
        y="69.458336"
-       onclick="window.location='ClimateFlowBelief.html#TemperatureMeasurements';" />
+       onclick="window.open('ClimateFlowBelief.html#TemperatureMeasurements');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="187.85413"
        y="76.261909"
        id="text1287"
-       onclick="window.location='ClimateFlowBelief.html#TemperatureMeasurements';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#TemperatureMeasurements');"><tspan
          sodipodi:role="line"
          id="tspan1285"
          x="187.85413"
@@ -1844,14 +1844,14 @@
        height="10.583333"
        x="185.20831"
        y="122.37499"
-       onclick="window.location='ClimateFlowBelief.html#CO2Measurements';" />
+       onclick="window.open('ClimateFlowBelief.html#CO2Measurements');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="187.85414"
        y="129.17857"
        id="text1287-2"
-       onclick="window.location='ClimateFlowBelief.html#CO2Measurements';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#CO2Measurements');"><tspan
          sodipodi:role="line"
          id="tspan1285-9"
          x="187.85414"
@@ -1864,14 +1864,14 @@
        height="10.583333"
        x="185.20833"
        y="148.83333"
-       onclick="window.location='ClimateFlowBelief.html#IncreasingCO2Ok';" />
+       onclick="window.open('ClimateFlowBelief.html#IncreasingCO2Ok');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="187.85416"
        y="155.6369"
        id="text1287-27"
-       onclick="window.location='ClimateFlowBelief.html#IncreasingCO2Ok';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#IncreasingCO2Ok');"><tspan
          sodipodi:role="line"
          id="tspan1285-0"
          x="187.85416"
@@ -1884,14 +1884,14 @@
        height="10.583333"
        x="63.500004"
        y="42.999996"
-       onclick="window.location='ClimateFlowBelief.html#HumansCause';" />
+       onclick="window.open('ClimateFlowBelief.html#HumansCause');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="66.145836"
        y="49.803562"
        id="text1287-3"
-       onclick="window.location='ClimateFlowBelief.html#HumansCause';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#HumansCause');"><tspan
          sodipodi:role="line"
          id="tspan1285-6"
          x="66.145836"
@@ -1904,14 +1904,14 @@
        height="10.583333"
        x="63.499996"
        y="69.458328"
-       onclick="window.location='ClimateFlowBelief.html#ClimateChangeIsNotBad';" />
+       onclick="window.open('ClimateFlowBelief.html#ClimateChangeIsNotBad');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="66.145828"
        y="76.261894"
        id="text1287-6"
-       onclick="window.location='ClimateFlowBelief.html#ClimateChangeIsNotBad';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#ClimateChangeIsNotBad');"><tspan
          sodipodi:role="line"
          id="tspan1285-2"
          x="66.145828"
@@ -1924,14 +1924,14 @@
        height="10.583333"
        x="89.958336"
        y="37.708328"
-       onclick="window.location='ClimateFlowBelief.html#HumansLying';" />
+       onclick="window.open('ClimateFlowBelief.html#HumansLying');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="92.604164"
        y="44.511898"
        id="text1287-8"
-       onclick="window.location='ClimateFlowBelief.html#HumansLying';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#HumansLying');"><tspan
          sodipodi:role="line"
          id="tspan1285-7"
          x="92.604164"
@@ -1944,14 +1944,14 @@
        height="10.583333"
        x="63.499996"
        y="122.375"
-       onclick="window.location='ClimateFlowBelief.html#OnlyCorporationsCanFix';" />
+       onclick="window.open('ClimateFlowBelief.html#OnlyCorporationsCanFix');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="66.145828"
        y="129.17857"
        id="text1287-0"
-       onclick="window.location='ClimateFlowBelief.html#OnlyCorporationsCanFix';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#OnlyCorporationsCanFix');"><tspan
          sodipodi:role="line"
          id="tspan1285-23"
          x="66.145828"
@@ -1964,14 +1964,14 @@
        height="10.583333"
        x="63.499996"
        y="148.83333"
-       onclick="window.location='ClimateFlowBelief.html#IndividualsCanHelp';" />
+       onclick="window.open('ClimateFlowBelief.html#IndividualsCanHelp');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="66.145828"
        y="155.63689"
        id="text1287-5"
-       onclick="window.location='ClimateFlowBelief.html#IndividualsCanHelp';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#IndividualsCanHelp');"><tspan
          sodipodi:role="line"
          id="tspan1285-92"
          x="66.145828"
@@ -1984,14 +1984,14 @@
        height="10.583333"
        x="63.499996"
        y="175.29166"
-       onclick="window.location='ClimateFlowBelief.html#IAmHelping';" />
+       onclick="window.open('ClimateFlowBelief.html#IAmHelping');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="65.767853"
        y="182.09523"
        id="text1287-89"
-       onclick="window.location='ClimateFlowBelief.html#IAmHelping';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#IAmHelping');"><tspan
          sodipodi:role="line"
          id="tspan1285-73"
          x="65.767853"
@@ -2004,14 +2004,14 @@
        height="10.583333"
        x="26.458332"
        y="222.91666"
-       onclick="window.location='ClimateFlowBelief.html#IAmSure';" />
+       onclick="window.open('ClimateFlowBelief.html#IAmSure');" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="29.10416"
        y="229.72023"
        id="text1287-9"
-       onclick="window.location='ClimateFlowBelief.html#IAmSure';"><tspan
+       onclick="window.open('ClimateFlowBelief.html#IAmSure');"><tspan
          sodipodi:role="line"
          id="tspan1285-3"
          x="29.10416"
